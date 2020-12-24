@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "323827102388",
+    "firebase_url": "https://berrymarket-production.firebaseio.com",
+    "project_id": "berrymarket-production",
+    "storage_bucket": "berrymarket-production.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323827102388:android:9642e8287e80d299d5dde1",
+        "android_client_info": {
+          "package_name": "com.berrymarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323827102388-ogim7k7kkmhbknokat0f5b61j766idd6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.berrymarket",
+            "certificate_hash": "1c5becbff33f5311cb399f46b6f0c094067dd30a"
+          }
+        },
+        {
+          "client_id": "323827102388-rpj5fq2srfgdueff98ieiqeji03cqvmi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmZqqtWrj3RumErpLp1jB_57RFmFlxyiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323827102388-rpj5fq2srfgdueff98ieiqeji03cqvmi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
